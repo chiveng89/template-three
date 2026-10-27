@@ -1,0 +1,74 @@
+MENGLONG DOORS & WINDOWS — STATIC WEBSITE
+
+Open index.html in a browser, or serve this directory with any static web server.
+No package installation or frontend build is required.
+
+Pages: Home, Products, Services, Our Work, About, Team, Contact, FAQ, Privacy,
+404, and Koh Reah project details. All 11 pages are available in English and Khmer.
+Old template page URLs redirect to the corresponding Menglong page.
+
+Shared page source and content: tools/build_site.py
+Regenerate all pages after changing that source: python3 tools/build_site.py
+Khmer translations: tools/km.json
+Static localization renderer: tools/localize.py
+English is the default at root URLs and is also available in en/. Khmer pages
+are available in km/. The language switch opens the matching translated page.
+Language links preserve
+the current page, section and product query. Form entries are not transferred.
+Every Khmer element uses Battambang, loaded from Google Fonts (400 and 700).
+New English text needs a matching Khmer translation; the build reports omissions.
+Styling: assets/css/menglong.css
+Interactions: assets/js/menglong.js
+Business images: assets/images/menglong/
+Research and photo provenance: CONTENT_SOURCES.json
+
+The enquiry form creates a message locally. Customers explicitly send it using
+their own email application or copy it into Messenger. It does not submit to a
+backend, store leads, or claim that a message was sent.
+
+Business phone, email and address were read from the supplied Facebook page.
+Opening hours, prices, warranties, service availability and technical product
+specifications should be confirmed by the business before publishing specifics.
+
+The existing template's unused CSS, JavaScript and stock photos are retained for
+reference; none of the new business pages load them.
+
+No hosting account or public deployment has been created for this local project.
+
+Professional refinement: consistent brand styling, mobile contact shortcuts,
+expanded company presentation, and a dedicated Koh Reah project page.
+The release ZIP includes only business pages and their required Menglong assets.
+Recreate the release package with: python3 tools/package_site.py
+
+The homepage project gallery is a static image grid with click-to-enlarge photos.
+It has no carousel, automatic scrolling or timed image changes.
+The Team page shows four separate individual portrait cards with sample names and short positions.
+The grid has four columns on desktop, two on tablets and one on small screens.
+The AI-generated portraits are clearly labelled as illustrations and do not identify
+actual Menglong employees. Names and positions are fictional examples, explicitly
+disclosed below the cards. Replace these with owner-confirmed details before launch.
+Replace them with real individual staff photos when available.
+Portraits: assets/images/menglong/team-product-advice.png,
+assets/images/menglong/team-project-coordination.png,
+assets/images/menglong/team-site-measurement.png,
+assets/images/menglong/team-installation-support.png
+Generation prompts: assets/images/menglong/team-portraits-prompts.json
+The earlier team-illustration.png is retained only as a generation reference;
+it is not displayed on the website or included in the release ZIP.
+
+Original button styling restored at the user's request: gold primary buttons,
+outlined secondary buttons, and underlined text links with diagonal arrows.
+Header, filters, mobile actions and form buttons use their original styles.
+
+Customer journey review (2026-10-27): mobile menu has a close state, dimmed
+backdrop, background scroll lock and viewport-sized navigation. Project photos
+show full frames; the dialog supports previous/next, keyboard arrows, photo counts
+and product-aware enquiry links. The homepage gallery remains stationary and
+image-only. Contact shortcuts offer call, Messenger and directions before the form.
+Asset URLs include content hashes to prevent stale scripts after updates.
+All 33 generated pages were checked for local links, fragments, image alt text
+and one main heading. All 11 Khmer pages were checked at 320px and 1280px with
+no horizontal overflow or broken loaded images. Gallery filters, photo navigation,
+product preselection, Khmer message generation, stale preview clearing and language
+switch preservation were checked in the browser. No external message was sent.
+The sample team names and portraits remain clearly disclosed placeholders.

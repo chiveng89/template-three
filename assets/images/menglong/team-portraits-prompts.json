@@ -1,0 +1,30 @@
+{
+  "tool": "Built-in image_gen",
+  "reference": "team-illustration.png",
+  "portraits": [
+    {
+      "key": "product-advice",
+      "person": "the FIRST person from the LEFT, the man with short wavy dark hair and light facial stubble",
+      "prompt": "Use case: identity-preserve. Edit the supplied fictional group image into a SINGLE-the FIRST person from the LEFT, the man with short wavy dark hair and light facial stubble professional portrait for an individual website team card. Select PERSON. Keep this person's recognizable face, hairstyle, charcoal polo with subtle gold piping, and natural friendly expression. Show ONLY this one person; remove all other people completely. Center the subject at a consistent camera distance in a vertical 4:5 portrait, framed from above the head to the waist, both shoulders fully visible, 10% headroom. A softly blurred bright aluminium door and window showroom with dark frames behind them. Natural soft daylight, realistic skin texture, tasteful professional photography, warm ivory and charcoal colors. Fill the portrait frame with the person and showroom, no borders or blank panels. No text, no logos, no names, no watermark. This remains a fictional illustrative portrait, not a real employee. Produce one finished individual portrait image.",
+      "saved_path": "/home/wintech-panha/Videos/website/doroka/assets/images/menglong/team-product-advice.png"
+    },
+    {
+      "key": "project-coordination",
+      "person": "the SECOND person from the LEFT, the woman with long dark hair tied back and black trousers",
+      "prompt": "Use case: identity-preserve. Edit the supplied fictional group image into a SINGLE-the SECOND person from the LEFT, the woman with long dark hair tied back and black trousers professional portrait for an individual website team card. Select PERSON. Keep this person's recognizable face, hairstyle, charcoal polo with subtle gold piping, and natural friendly expression. Show ONLY this one person; remove all other people completely. Center the subject at a consistent camera distance in a vertical 4:5 portrait, framed from above the head to the waist, both shoulders fully visible, 10% headroom. A softly blurred bright aluminium door and window showroom with dark frames behind them. Natural soft daylight, realistic skin texture, tasteful professional photography, warm ivory and charcoal colors. Fill the portrait frame with the person and showroom, no borders or blank panels. No text, no logos, no names, no watermark. This remains a fictional illustrative portrait, not a real employee. Produce one finished individual portrait image.",
+      "saved_path": "/home/wintech-panha/Videos/website/doroka/assets/images/menglong/team-project-coordination.png"
+    },
+    {
+      "key": "site-measurement",
+      "person": "the FOURTH person from the LEFT, the man at the far RIGHT with short neatly combed hair",
+      "prompt": "Use case: identity-preserve. Edit the supplied fictional group image into a SINGLE-the FOURTH person from the LEFT, the man at the far RIGHT with short neatly combed hair professional portrait for an individual website team card. Select PERSON. Keep this person's recognizable face, hairstyle, charcoal polo with subtle gold piping, and natural friendly expression. Show ONLY this one person; remove all other people completely. Center the subject at a consistent camera distance in a vertical 4:5 portrait, framed from above the head to the waist, both shoulders fully visible, 10% headroom. A softly blurred bright aluminium door and window showroom with dark frames behind them. Natural soft daylight, realistic skin texture, tasteful professional photography, warm ivory and charcoal colors. Fill the portrait frame with the person and showroom, no borders or blank panels. No text, no logos, no names, no watermark. This remains a fictional illustrative portrait, not a real employee. Produce one finished individual portrait image.",
+      "saved_path": "/home/wintech-panha/Videos/website/doroka/assets/images/menglong/team-site-measurement.png"
+    },
+    {
+      "key": "installation-support",
+      "person": "the THIRD person from the LEFT, the woman with straight shoulder-length dark hair and beige trousers",
+      "prompt": "Use case: identity-preserve. Edit the supplied fictional group image into a SINGLE-the THIRD person from the LEFT, the woman with straight shoulder-length dark hair and beige trousers professional portrait for an individual website team card. Select PERSON. Keep this person's recognizable face, hairstyle, charcoal polo with subtle gold piping, and natural friendly expression. Show ONLY this one person; remove all other people completely. Center the subject at a consistent camera distance in a vertical 4:5 portrait, framed from above the head to the waist, both shoulders fully visible, 10% headroom. A softly blurred bright aluminium door and window showroom with dark frames behind them. Natural soft daylight, realistic skin texture, tasteful professional photography, warm ivory and charcoal colors. Fill the portrait frame with the person and showroom, no borders or blank panels. No text, no logos, no names, no watermark. This remains a fictional illustrative portrait, not a real employee. Produce one finished individual portrait image.",
+      "saved_path": "/home/wintech-panha/Videos/website/doroka/assets/images/menglong/team-installation-support.png"
+    }
+  ]
+}

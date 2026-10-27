@@ -1,0 +1,88 @@
+{
+  "researched_on": "2026-10-26",
+  "business": "Menglong Doors & Windows",
+  "primary_source": "https://www.facebook.com/MenglongDoorsandWindows/",
+  "verified_from_facebook_intro": {
+    "category": "Doors & Windows - Aluminium / Home Window Service",
+    "phone": "099 881 199",
+    "email": "menglongdoorandwindow@gmail.com",
+    "address": "ផ្ទះលេខ២៦១K ផ្លូវសាន់ហាន់ សង្កាត់ទួលសង្កែ១ ខណ្ឌឫស្សីកែវ រាជធានីភ្នំពេញ"
+  },
+  "projects": [
+    {
+      "description": "Sliding doors installed for a customer",
+      "source": "https://www.facebook.com/MenglongDoorsandWindows/posts/pfbid02daW1hGrPxR5NJps5voWyiTdTE7UXHHo1buc1Y9HpsvmDAjyKkafwQWYGKgsqGW2el"
+    },
+    {
+      "description": "Completed aluminium doors and windows for a holiday home in Koh Reah, Lvea Em; photos show hinged and folding windows",
+      "source": "https://www.facebook.com/MenglongDoorsandWindows/posts/pfbid024xYZzFpkt26m4ZcoGNF6EARhNTf1n9tJvVDbs6WBETQq5iLqfBCYjRDKQ4Xwr8TRl"
+    }
+  ],
+  "assets": {
+    "assets/images/menglong/logo.jpg": "https://www.facebook.com/photo/?fbid=772174054167081",
+    "assets/images/menglong/cover.jpg": "https://www.facebook.com/photo/?fbid=772174050833748",
+    "assets/images/menglong/sliding-door.jpg": "https://www.facebook.com/photo/?fbid=889479155769903",
+    "assets/images/menglong/sliding-exterior.jpg": "https://www.facebook.com/photo/?fbid=889479142436571",
+    "assets/images/menglong/white-door.jpg": "https://www.facebook.com/photo/?fbid=988305645887253",
+    "assets/images/menglong/window-detail.jpg": "https://www.facebook.com/photo/?fbid=868565047861314",
+    "assets/images/menglong/holiday-home.jpg": "https://www.facebook.com/photo/?fbid=868565071194645"
+  },
+  "supporting_sources": [
+    {
+      "url": "https://share.google/aimode/EJXCfB3aRadOoQScP",
+      "note": "User-provided Google AI Mode summary inspected in browser. Describes supply, measurement and installation, sliding doors, folding doors and casement products. Treated as supporting context, not independent verification of technical specifications. The site asks customers to discuss measurement and product availability directly."
+    },
+    {
+      "url": "https://cambodia.worldplaces.me/review/92545547-menglong-doors-and-windows.html",
+      "note": "Corroborates phone, Khmer address and aluminium business category. Opening times have not been presented as verified."
+    },
+    {
+      "url": "https://www.fastbase.com/countryindex/Cambodia/W/Window-installation-service",
+      "note": "Corroborates Phnom Penh business and phone number."
+    }
+  ],
+  "content_policy": "No invented customer reviews, staff biographies (team cards use explicitly disclosed sample names and positions), years in business, job counts, guarantees, prices, certifications or emergency-service claims. Product categories are based on visible business photos. Additional configurations, specifications, warranty terms, service areas and schedules must be confirmed with the business.",
+  "asset_note": "Business photos downloaded from the public Facebook page for the requested Menglong website adaptation. Original branding and watermarks are retained. No stock or generated project photos are used.",
+  "generated_assets": {
+    "assets/images/menglong/team-illustration.png": {
+      "created_on": "2026-10-27",
+      "method": "Built-in image_gen tool",
+      "description": "Four fictional Cambodian-presenting adults in an aluminium door and window showroom. Generated at the user’s request as a team-page illustration.",
+      "disclosure": "Caption and alternative text identify the image as generated and illustrative, not a photograph of actual Menglong staff.",
+      "prompt": "assets/images/menglong/team-illustration-prompt.txt",
+      "usage": "Generation reference only; not displayed on the website or included in the release ZIP."
+    },
+    "assets/images/menglong/team-product-advice.png": {
+      "created_on": "2026-10-27",
+      "method": "Built-in image_gen tool",
+      "description": "One fictional Cambodian-presenting adult in an aluminium door and window showroom, generated for an individual team card.",
+      "disclosure": "Shared caption identifies AI-generated portraits, sample names and sample positions as illustrative, not verified Menglong staff details.",
+      "reference": "assets/images/menglong/team-illustration.png",
+      "prompt": "assets/images/menglong/team-portraits-prompts.json"
+    },
+    "assets/images/menglong/team-project-coordination.png": {
+      "created_on": "2026-10-27",
+      "method": "Built-in image_gen tool",
+      "description": "One fictional Cambodian-presenting adult in an aluminium door and window showroom, generated for an individual team card.",
+      "disclosure": "Shared caption identifies AI-generated portraits, sample names and sample positions as illustrative, not verified Menglong staff details.",
+      "reference": "assets/images/menglong/team-illustration.png",
+      "prompt": "assets/images/menglong/team-portraits-prompts.json"
+    },
+    "assets/images/menglong/team-site-measurement.png": {
+      "created_on": "2026-10-27",
+      "method": "Built-in image_gen tool",
+      "description": "One fictional Cambodian-presenting adult in an aluminium door and window showroom, generated for an individual team card.",
+      "disclosure": "Shared caption identifies AI-generated portraits, sample names and sample positions as illustrative, not verified Menglong staff details.",
+      "reference": "assets/images/menglong/team-illustration.png",
+      "prompt": "assets/images/menglong/team-portraits-prompts.json"
+    },
+    "assets/images/menglong/team-installation-support.png": {
+      "created_on": "2026-10-27",
+      "method": "Built-in image_gen tool",
+      "description": "One fictional Cambodian-presenting adult in an aluminium door and window showroom, generated for an individual team card.",
+      "disclosure": "Shared caption identifies AI-generated portraits, sample names and sample positions as illustrative, not verified Menglong staff details.",
+      "reference": "assets/images/menglong/team-illustration.png",
+      "prompt": "assets/images/menglong/team-portraits-prompts.json"
+    }
+  }
+}
